@@ -10,26 +10,11 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ---
 
-<div align="center" style="border:1px solid #ddd; border-radius:12px; padding:15px; display:inline-block;">
-
-  <h3>💻 Tech Stack</h3>
-
-  <p>
-    <strong>Frontend:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-  </p>
-
-  <p>
-    <strong>Backend:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=php,cs,python,firebase,mysql" />
-  </p>
-
-  <p>
-    <strong>DevOps:</strong><br/>
-    <img src="https://skillicons.dev/icons?i=aws,git,gcp" />
-  </p>
-
-</div>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</td>
 ---
 
 ## 📈 Interests
