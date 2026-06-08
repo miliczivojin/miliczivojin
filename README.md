@@ -12,17 +12,12 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,kotlin" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,kotlin,mongodb,mysql" />
 </p>
 
 <p>
