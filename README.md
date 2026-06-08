@@ -10,30 +10,20 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ---
 
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>DevOps</th>
-  </tr>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
 
-  <tr>
-    <!-- Frontend -->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-    </td>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,cs,python,firebase,mysql" />
+</p>
 
-    <!-- Backend -->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,cs,python,firebase,mysql" />
-    </td>
-
-    <!-- DevOps -->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,git,gcp" />
-    </td>
-  </tr>
-</table>
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,gcp" />
+</p>
 
 ---
 
