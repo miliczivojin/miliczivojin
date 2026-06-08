@@ -1,12 +1,10 @@
-# Hi, I am Živojin 👋
+# Hi, I'm Živojin 👋
 
 Software Engineering student at the Faculty of Organizational Sciences with interests in software development, finance, and data-driven problem solving.
 
 Currently designing and maintaining information systems for Kombi Klub, a vehicle parts company. Active member of the Investment Club and FONIS, continuously learning and building projects that create real-world value.
 
 ---
-
-## 🚀 My Skill Set
 
 ### 🎨 Frontend
 <p>
@@ -30,8 +28,3 @@ Currently designing and maintaining information systems for Kombi Klub, a vehicl
 - Finance & macroeconomics
 - Information systems
 - Business technology solutions
-
----
-
-## 🌱 Always Learning
-I am constantly exploring new technologies and improving my skills to build useful and impactful systems.
