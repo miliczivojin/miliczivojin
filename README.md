@@ -22,13 +22,15 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Libraries
 <p>
-  Git • Pandas • Matplotlib • SQL • Oracle Database
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
+
+**Libraries & Data Tools:** Pandas • Matplotlib • SQL • Oracle Database
 ---
 
 ## 📈 Interests
