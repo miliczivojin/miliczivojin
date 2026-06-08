@@ -10,11 +10,20 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ---
 
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</td>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,cs,python,firebase,mysql" />
+</p>
+
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,gcp" />
+</p>
 ---
 
 ## 📈 Interests
