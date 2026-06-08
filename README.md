@@ -10,41 +10,40 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ---
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>DevOps</th>
+  </tr>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
-
+  <tr>
     <!-- Frontend -->
-    <div style="border: 1px solid #444; padding: 15px; width: 220px;">
-      <h3>Frontend</h3>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-    </div>
+    </td>
 
     <!-- Backend -->
-    <div style="border: 1px solid #444; padding: 15px; width: 220px;">
-      <h3>Backend</h3>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-    </div>
+    </td>
 
     <!-- DevOps -->
-    <div style="border: 1px solid #444; padding: 15px; width: 220px;">
-      <h3>DevOps</h3>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
-    </div>
-
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
