@@ -4,8 +4,9 @@ Software Engineering student at the Faculty of Organizational Sciences with inte
 
 Currently designing and maintaining information systems for Kombi Klub, a vehicle parts company. Active member of the Investment Club and FONIS, continuously learning and building projects that create real-world value.
 
-## 🚀 My Skill Set
 ---
+
+## 🚀 My Skill Set
 
 ### 🎨 Frontend
 <p>
