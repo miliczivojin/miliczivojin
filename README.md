@@ -10,27 +10,25 @@ I am also a member of the Investment Club and FONIS at the Faculty of Organizati
 
 ---
 
-### Languages
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,react" />
 </p>
 
-### Frontend
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,kotlin" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <strong>Python Libraries:</strong> Pandas • Matplotlib
 </p>
 
-**Libraries & Data Tools:** Pandas • Matplotlib • SQL • Oracle Database
 ---
 
 ## 📈 Interests
